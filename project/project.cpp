@@ -12,7 +12,7 @@ int main()
 		<< "A - B = " << a - b << '\n'
 		<< "A * B = " << a * b << '\n'
 			 << "A / B = " << a / b << '\n';
-	/*
+	
 	if (a < b)
 		std::cout << a;
 	else
@@ -21,6 +21,6 @@ int main()
 	if (a > b)
 		std::cout << a;
 	else
-		std::cout << b;*/
+		std::cout << b;
 }
 
